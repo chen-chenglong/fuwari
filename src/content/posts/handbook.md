@@ -24,7 +24,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 
 或者微信扫一扫添加加好友
 
-<img src="https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262299692-51ffed16-5bc8-423c-ba9a-900366f85675.webp" width="331" title="" crop="0,0,1,1" id="u3719725e" class="ne-image">
+![微信扫码加好友](https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262299692-51ffed16-5bc8-423c-ba9a-900366f85675.webp)
 
 添加微信好友时请注明来源说明目的，谢谢。
 
@@ -34,7 +34,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 
 公众号名称：积木好课
 
-<img src="https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262300460-b580b660-d603-4002-88a8-524e5b9997d6.webp" width="855" title="" crop="0,0,1,1" id="yqP9T" class="ne-image">
+![积木好课微信公众号](https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262300460-b580b660-d603-4002-88a8-524e5b9997d6.webp)
 
 ### 📥下载软件：
 如果您已经安装了2016或更高版本AutoCAD，无需安装其他版本，直接学习即可，
@@ -57,6 +57,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 [jiaoyu.taobao.com](http://jiaoyu.taobao.com/)
 
 登录购买课程的淘宝账号，如下图：点击**右上角“我的学习”**即可找到已购买的课程。
+![淘宝教育登录](https://cdn.jimuhaoke.com/2025/%E6%B7%98%E5%AE%9D%E6%95%99%E8%82%B2.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=24238a76-1258-8146-894d-ef46153c4e07)
 
 ✅温馨提示：加入浏览器收藏夹，下次方便直接一键打开。
 

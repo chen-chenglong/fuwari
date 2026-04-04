@@ -24,7 +24,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 
 或者微信扫一扫添加加好友
 
-![微信扫码加好友](https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262299692-51ffed16-5bc8-423c-ba9a-900366f85675.webp)
+![微信扫码加好友](https://cdn.jimuhaoke.com/img/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=26538a76-1258-807a-a3e6-d7333b304f6f)
 
 添加微信好友时请注明来源说明目的，谢谢。
 
@@ -34,7 +34,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 
 公众号名称：积木好课
 
-![积木好课微信公众号](https://cdn.nlark.com/yuque/0/2026/webp/368251/1775262300460-b580b660-d603-4002-88a8-524e5b9997d6.webp)
+![积木好课微信公众号](https://cdn.jimuhaoke.com/img/%E7%A7%AF%E6%9C%A8%E5%A5%BD%E8%AF%BE%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=2f738a76-1258-8031-b0b6-e43fd12ef37f)
 
 ### 📥下载软件：
 如果您已经安装了2016或更高版本AutoCAD，无需安装其他版本，直接学习即可，

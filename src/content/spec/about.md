@@ -1,9 +1,22 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 联系站长
+积木好课站长为各位朋友提供力所能及的服务，包括：技术答疑、项目合作、一对一定制教学、企业或团体培训、科研绘图等可通过以下方式联系。
 
-::github{repo="saicaca/fuwari"}
+## 📱站长微信：  
+站长QQ号：2306151104  
+站长微信号：17685701141  
+或者微信扫一扫添加加好友  
+![微信扫码加好友](https://cdn.jimuhaoke.com/img/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=26538a76-1258-807a-a3e6-d7333b304f6f)
+添加微信好友时请注明来源说明目的，谢谢。  
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+## ✉️站长邮箱：  
+chenglongchen#qq.com  
+为了避开搜索引擎，#请替换为@
+
+## 🌏微信公众号：  
+公众号名称：积木好课  
+![积木好课微信公众号](https://cdn.jimuhaoke.com/img/%E7%A7%AF%E6%9C%A8%E5%A5%BD%E8%AF%BE%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=2f738a76-1258-8031-b0b6-e43fd12ef37f)
+
+## 🧯远程协助  
+远程协助一般都是自己解决不了的复杂问题，简单的问题我一般直接文字或者语音指导即可解决，复杂的问题一时半会解决不了，比如有的小伙伴之前没有告知自己错误安装和卸载后导致无法再次安装等系统级问题，我给远程定位问题加驱动修复加重新安装花费3个半小时！  
+时间宝贵啊~  
+因此只有必要情况下才进行远程协助，且每次远程都是收费的，20元起随时间和难度提升。

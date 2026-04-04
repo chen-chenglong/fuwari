@@ -1,0 +1,33 @@
+---
+import I18nKey from "../../i18n/i18nKey";
+import { i18n } from "../../i18n/translation";
+import { getSortedPosts } from "../../utils/content-utils";
+import WidgetLayout from "./WidgetLayout.astro";
+
+const posts = await getSortedPosts();
+const totalPosts = posts.length;
+
+interface Props {
+	class?: string;
+	style?: string;
+}
+const className = Astro.props.class;
+const style = Astro.props.style;
+---
+
+<WidgetLayout name="站点统计" id="site-stats" class={className} style={style}>
+    <div class="flex flex-col gap-3">
+        <div class="flex justify-between items-center">
+            <span class="text-sm text-neutral-700 dark:text-neutral-300">文章总数</span>
+            <span class="text-sm font-semibold text-neutral-900 dark:text-neutral-100">{totalPosts}</span>
+        </div>
+        <div class="flex justify-between items-center">
+            <span class="text-sm text-neutral-700 dark:text-neutral-300">访客总数</span>
+            <span class="text-sm font-semibold text-neutral-900 dark:text-neutral-100" id="busuanzi_value_site_uv"></span>
+        </div>
+        <div class="flex justify-between items-center">
+            <span class="text-sm text-neutral-700 dark:text-neutral-300">阅读总量</span>
+            <span class="text-sm font-semibold text-neutral-900 dark:text-neutral-100" id="busuanzi_value_site_pv"></span>
+        </div>
+    </div>
+</WidgetLayout>

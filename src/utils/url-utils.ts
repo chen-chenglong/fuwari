@@ -9,11 +9,13 @@ export function pathsEqual(path1: string, path2: string) {
 
 function joinUrl(...parts: string[]): string {
 	const joined = parts.join("/");
-	return joined.replace(/\/+/g, "/");
+	const normalized = joined.replace(/\/+/g, "/");
+	const stripped = normalized.replace(/\/$/, "");
+	return stripped === "" ? "/" : stripped;
 }
 
 export function getPostUrlBySlug(slug: string): string {
-	return url(`/posts/${slug}/`);
+	return url(`/blog/${slug}`);
 }
 
 export function getTagUrl(tag: string): string {

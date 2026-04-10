@@ -4,6 +4,7 @@ published: 2026-03-10
 description: 积木好课AutoCAD三维建模教程，全面掌握实体曲面网格建模、布尔运算与三视图出图，搭配行业实战案例，助力快速掌握专业建模能力。
 tags: [AutoCAD, AutoCAD教程, CAD三维]
 category: AutoCAD课程
+pinned: true
 draft: false
 image: "https://images.unsplash.com/photo-1769147339214-076740872485?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
 ---

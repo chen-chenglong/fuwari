@@ -4,12 +4,21 @@ import { i18n } from "@i18n/translation";
 import { getCategoryUrl } from "@utils/url-utils.ts";
 
 // // Retrieve posts and sort them by publication date
+// Pinned posts appear first, then sorted by publication date
 async function getRawSortedPosts() {
 	const allBlogPosts = await getCollection("posts", ({ data }) => {
 		return import.meta.env.PROD ? data.draft !== true : true;
 	});
 
 	const sorted = allBlogPosts.sort((a, b) => {
+		// Pinned posts come first
+		const aPinned = a.data.pinned ?? false;
+		const bPinned = b.data.pinned ?? false;
+		if (aPinned !== bPinned) {
+			return aPinned ? -1 : 1;
+		}
+
+		// Then sort by publication date (newest first)
 		const dateA = new Date(a.data.published);
 		const dateB = new Date(b.data.published);
 		return dateA > dateB ? -1 : 1;

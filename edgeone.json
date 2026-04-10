@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "https://www.jimuhaoke.com/:path*",
+      "destination": "https://jimuhaoke.com/:path*",
+      "statusCode": 301
+    }
+  ]
+}

@@ -24,7 +24,7 @@ image: "https://images.unsplash.com/photo-1509114859430-5f2c74177f4b?q=80&w=1170
 
 或者微信扫一扫添加加好友
 
-![微信扫码加好友](https://cdn.jimuhaoke.com/img/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1.webp?spaceId=28931f0e-b11a-4405-87af-570a42590bf4&t=26538a76-1258-807a-a3e6-d7333b304f6f)
+![微信扫码加好友](https://cdn.jimuhaoke.com/img/%E7%AB%99%E9%95%BF%E5%BE%AE%E4%BF%A1.webp)
 
 添加微信好友时请注明来源说明目的，谢谢。
 

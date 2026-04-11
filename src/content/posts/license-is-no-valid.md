@@ -5,7 +5,7 @@ description: 提示CAD许可无效，解决您的AutoCAD许可证无效Nonvalid 
 tags: [AutoCAD教程, CAD许可]
 category: 技术文档
 draft: false
-image: ""
+image: "https://cdn.jimuhaoke.com/2025/cad%E8%AE%B8%E5%8F%AF%E8%AF%81%E6%97%A0%E6%95%88.webp"
 ---
 ### 问题描述：
 

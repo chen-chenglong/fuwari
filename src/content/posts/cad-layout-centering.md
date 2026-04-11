@@ -5,7 +5,7 @@ description: 很多时候我们需要AutoCAD模型空间的图形在布局视口
 tags: [CAD布局, CAD打印]
 category: 技术文档
 draft: false
-image: ""
+image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E8%AF%BE%E7%A8%8B.webp"
 ---
 ### 问题描述：
 

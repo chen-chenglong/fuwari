@@ -3,7 +3,7 @@ title: 积木好课机械制图员四级技能认定考试视频教程
 published: 2025-05-01
 updated: 2025-11-29
 description: '全面讲授了基本设置部分，包含图层、图框、文字样式；计算机二维绘图考核的重难点、零件图的拆画和抄画、手工绘图的三视图绘制规范。'
-image: ''
+image: 'https://cdn.jimuhaoke.com/img/%E8%81%8C%E4%B8%9A%E6%8A%80%E8%83%BD.webp'
 tags: [CAD四级认证, CAD课程, CAD机械]
 category: 'AutoCAD课程'
 draft: false 

@@ -5,6 +5,7 @@ description: photoshop2026最新版本一键下载和安装，下载并解压后
 tags: [Photoshop, 日常软件]
 category: 软件安装
 draft: false
+image: "https://cdn.jimuhaoke.com/2025/ps.webp"
 ---
 很多学员一直问我有没有ps安装包，正好最新重装系统就顺手换了一个最新版本，实测使用了一段时间没有问题，分享给大家。
 

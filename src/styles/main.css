@@ -93,6 +93,10 @@
         @apply text-black/25 dark:text-white/25
     }
 
+    .text-3xl {
+        font-size: 1.5rem !important;
+    }
+
     .meta-icon {
         @apply w-8 h-8 transition rounded-md flex items-center justify-center bg-[var(--btn-regular-bg)]
         text-[var(--btn-content)] mr-2

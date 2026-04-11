@@ -1,7 +1,7 @@
 ---
-title: 积木好课原创AutoCAD三维建模全套视频教程字典式全体系
-published: 2026-03-10
-description: 积木好课AutoCAD三维建模教程，全面掌握实体曲面网格建模、布尔运算与三视图出图，搭配行业实战案例，助力快速掌握专业建模能力。
+title: 积木好课原创AutoCAD三维建模视频教程
+published: 2026-04-10
+description: 积木好课AutoCAD三维建模教程，全面掌握实体曲面网格建模、布尔运算与三视图，搭配实战案例，快速掌握专业建模能力。
 tags: [AutoCAD, AutoCAD教程, CAD三维]
 category: AutoCAD课程
 pinned: true
@@ -16,10 +16,10 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E
 
 **`录播教学` `下单即学` `终身有效`  `真人答疑`** 
 
-## 🔗 购买与免费试看链接  
+## 购买与免费试看链接  
 [https://item.taobao.com/item.htm?ft=t&id=783848513764](https://item.taobao.com/item.htm?ft=t&id=783848513764)
 
-## 🎉 你将获得
+## 你将获得
 
 - 独立完成行业级 AutoCAD 模型
 - 科学学习路径：基础 → 进阶 → 综合案例
@@ -29,7 +29,7 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E
 - Autodesk官方认证教师真人答疑  
 ---
 
-## 🥇 学员作品展示
+## 学员作品展示
 
 ![下载.webp](https://cdn.jimuhaoke.com/2025/AutoCAD%E5%85%A8%E5%A5%97%E8%AF%BE%E7%A8%8B1.webp)
 
@@ -45,7 +45,7 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E
 
 ---
 
-## 📙 课程大纲
+## 课程大纲
 
 **第一章：软件准备**  
 1.1AutoCAD下载和安装注意事项  
@@ -151,7 +151,7 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%B8%89%E7%BB%B4%E5%BB%BA%E6%A8%A1%E
 13.12最终渲染  
 
 ---
-## 💡 常见问题（FAQ）
+## 常见问题（FAQ）
 
 **Q：三维是零基础能学吗？**  
 A：可以。课程从零基础的三维界面开始，逐步进阶坐标和常用建模命令直到三维建模与输出，提供练习素材，新手 2–4 周可完成学习。
@@ -166,7 +166,3 @@ A：提供 一对一真人答疑和学习社群。自愿提交作业免费点评
 A：支持开票普通电子发票。  
 
 ---
-
-本课程官方地址为：https://jimuhaoke.com/26.html
-
-旧网站32万访问人次，迁移至此，采用更现代的URL。

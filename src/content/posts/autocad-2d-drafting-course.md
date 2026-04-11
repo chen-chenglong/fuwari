@@ -1,7 +1,7 @@
 ---
-title: 积木好课原创AutoCAD零基础二维制图全套视频教程
+title: 积木好课原创AutoCAD零基础二维制图视频教程
 published: 2026-04-10
-description: 积木好课原创CAD系统教程的零基础到二维制图全套。适合零基础开始学习的朋友，全面的二维制图教程。
+description: 积木好课原创CAD系统教程的零基础到二维制图，并且适合零基础开始学习的朋友，包含全面的二维制图工具。
 tags: [AutoCAD教程, CAD二维]
 category: AutoCAD课程
 pinned: true
@@ -18,11 +18,11 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.w
 
 ---
 
-## 🔗购买链接：
+## 购买链接：
 
 [https://item.taobao.com/item.htm?ft=t&id=651978883873](https://item.taobao.com/item.htm?ft=t&id=651978883873)
 
-## 🎉 你将获得
+## 你将获得
 
 - 零基础开始学习AutoCAD二维制图全套
 - 科学学习路径：基础 → 进阶 → 综合案例
@@ -244,7 +244,7 @@ image: "https://cdn.jimuhaoke.com/2025/CAD%E4%BA%8C%E7%BB%B4%E8%AF%BE%E7%A8%8B.w
 
 ---
 
-## 💡 常见问题（FAQ）
+## 常见问题（FAQ）
 
 **Q：零基础能学吗？**
 

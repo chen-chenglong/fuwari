@@ -67,12 +67,12 @@ const { remarkPluginFrontmatter } = await entry.render();
     </div>
 
     {hasCover && <a href={url} aria-label={title}
-                    class:list={["block aspect-auto",
-                        "w-[calc(100%_-_2rem)] max-w-full mx-auto mt-4 -mb-2 md:mb-0 md:mx-0 md:mt-0",
-                        "md:w-[var(--coverWidth)] relative md:absolute md:top-3 md:bottom-3 md:right-3 rounded-xl overflow-hidden active:scale-95"
+                    class:list={['block',
+                        'w-[calc(100%_-_2rem)] max-w-full mx-auto mt-4 -mb-2 md:mb-0 md:mx-0 md:mt-0',
+                        'md:w-[var(--coverWidth)] relative md:absolute md:top-3 md:bottom-3 md:right-3 rounded-xl overflow-hidden'
                     ]} >
         <ImageWrapper src={image} basePath={path.join("content/posts/", getDir(entry.id))} alt="Cover Image of the Post"
-                  class="w-full" imgClass="object-contain md:object-cover w-full h-auto md:h-full">
+                  class="w-full h-full" imgClass="object-contain object-center">
         </ImageWrapper>
     </a>}
 
